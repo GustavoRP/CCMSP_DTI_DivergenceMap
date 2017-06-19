@@ -1,0 +1,3 @@
+sys.meta_path.append(NotebookFinder())
+find_notebook('DTIlib2')
+import DTIlib2 as DTI
